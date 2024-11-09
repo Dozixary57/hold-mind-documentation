@@ -1,4 +1,4 @@
-**[← Назад](./Overview/README.md)**
+**[← Назад](/Overview/README.md)**
 
 # Icons
 

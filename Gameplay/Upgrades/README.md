@@ -1,4 +1,4 @@
-**[← Назад](./Gameplay/README.md)**
+**[← Назад](/Gameplay/README.md)**
 
 # Upgrades
 
